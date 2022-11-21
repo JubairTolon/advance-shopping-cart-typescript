@@ -1,3 +1,3 @@
 export const Contact = () => {
-    return <h1>This is cotact</h1>
+    return <h1>This is contact</h1>
 }
